@@ -6,7 +6,7 @@ hide_config = false
 llm_provider = "pollinations"
 
 pollinations_api_key = ""
-pollinations_base_url = "https://pollinations.ai/api/v1"
+pollinations_base_url = "https://text.pollinations.ai/openai"
 pollinations_model_name = "openai"
 
 openai_api_key  = "1zSCqPdSVKbe6okQ"
