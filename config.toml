@@ -3,12 +3,12 @@ title = "MoneyPrinterTurbo"
 
 [llm]
 provider = "openai"
-api_key = "tu-openai-key-aqui"
-base_url = "https://api.openai.com/v1"
-model_name = "gpt-4"
+api_key = "1zSCqPdSVKbe6okQ"
+base_url = "https://text.pollinations.ai/openai"
+model_name = "openai"
 
 [pexels]
-api_keys = ["tu-pexels-key-aqui"]
+api_keys = ["H7qUC8PYxjwnyFsIEFfBTqpy5lJ9vViPIX9Q8CW0k53NNhfYb4IHtgCa]
 
 [pixabay]
 api_keys = ["tu-pixabay-key-aqui"]
