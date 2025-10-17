@@ -1,20 +1,18 @@
 [app]
-title = "MoneyPrinterTurbo"
+video_source = "pexels" # "pexels" or "pixabay"
 
-[llm]
+hide_config = false
+
+llm_provider = "pollinations"
+
 pollinations_api_key = ""
-# Default base URL for Pollinations API
 pollinations_base_url = "https://pollinations.ai/api/v1"
-# Default model for text generation
 pollinations_model_name = "openai"
 
-provider = "openai"
 openai_api_key  = "1zSCqPdSVKbe6okQ"
 openai_base_url  = "https://text.pollinations.ai/openai"
 openai_model_name  = "openai"
 
-[pexels]
 pexels_api_keys  = ["H7qUC8PYxjwnyFsIEFfBTqpy5lJ9vViPIX9Q8CW0k53NNhfYb4IHtgCa"]
 
-[pixabay]
 pixabay_api_keys  = ["52814173-91f44ee5e49d2a59f9e1742f9"]
